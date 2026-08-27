@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0260-single-number-iii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0275-h-index-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0274-h-index) |
+## Binary Search
+|  |
+| ------- |
+| [0275-h-index-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0275-h-index-ii) |
 <!---LeetCode Topics End-->
