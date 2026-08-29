@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0274-h-index) |
+| [0299-bulls-and-cows](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0299-bulls-and-cows) |
 ## Binary Search
 |  |
 | ------- |
@@ -49,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+## Hash Table
+|  |
+| ------- |
+| [0299-bulls-and-cows](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0299-bulls-and-cows) |
+## String
+|  |
+| ------- |
+| [0299-bulls-and-cows](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0299-bulls-and-cows) |
 <!---LeetCode Topics End-->
