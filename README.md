@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0260-single-number-iii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0275-h-index-ii) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0275-h-index-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0304-range-sum-query-2d-immutable) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
