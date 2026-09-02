@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0299-bulls-and-cows) |
+| [0306-additive-number](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0306-additive-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Backtracking
+|  |
+| ------- |
+| [0306-additive-number](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0306-additive-number) |
 <!---LeetCode Topics End-->
