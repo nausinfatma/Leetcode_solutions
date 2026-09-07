@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0299-bulls-and-cows](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0299-bulls-and-cows) |
 | [0306-additive-number](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0306-additive-number) |
+| [0316-remove-duplicate-letters](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0316-remove-duplicate-letters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -142,4 +143,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0313-super-ugly-number](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0313-super-ugly-number) |
+## Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0316-remove-duplicate-letters) |
+## Greedy
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
