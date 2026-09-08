@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0313-super-ugly-number](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0313-super-ugly-number) |
+| [0319-bulb-switcher](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0319-bulb-switcher) |
 ## Stack
 |  |
 | ------- |
@@ -158,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0316-remove-duplicate-letters) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
