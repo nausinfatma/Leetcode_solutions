@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0306-additive-number](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0318-maximum-product-of-word-lengths) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0316-remove-duplicate-letters) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Greedy
 |  |
 | ------- |
