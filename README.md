@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0324-wiggle-sort-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0334-increasing-triplet-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0334-increasing-triplet-subsequence](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0334-increasing-triplet-subsequence) |
 ## Matrix
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0316-remove-duplicate-letters) |
 | [0324-wiggle-sort-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0324-wiggle-sort-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0334-increasing-triplet-subsequence) |
 ## Monotonic Stack
 |  |
 | ------- |
