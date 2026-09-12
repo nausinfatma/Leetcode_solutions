@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0867-transpose-matrix](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0867-transpose-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0867-transpose-matrix](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0867-transpose-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -210,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0341-flatten-nested-list-iterator) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
