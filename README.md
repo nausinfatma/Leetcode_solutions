@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0867-transpose-matrix](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0867-transpose-matrix) |
 ## Bit Manipulation
 |  |
@@ -33,11 +34,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Counting Sort
 |  |
 | ------- |
 | [0274-h-index](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0274-h-index) |
 | [0299-bulls-and-cows](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -111,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0307-range-sum-query-mutable](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0307-range-sum-query-mutable) |
 | [0324-wiggle-sort-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -202,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -218,4 +224,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0867-transpose-matrix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
