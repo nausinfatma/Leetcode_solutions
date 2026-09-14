@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0337-house-robber-iii) |
 | [0343-integer-break](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0357-count-numbers-with-unique-digits) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0306-additive-number](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0306-additive-number) |
+| [0357-count-numbers-with-unique-digits](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0357-count-numbers-with-unique-digits) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0319-bulb-switcher) |
 | [0343-integer-break](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0357-count-numbers-with-unique-digits) |
 ## Stack
 |  |
 | ------- |
