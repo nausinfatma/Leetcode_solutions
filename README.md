@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0307-range-sum-query-mutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0341-flatten-nested-list-iterator) |
+| [0355-design-twitter](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0355-design-twitter) |
 ## Iterator
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0299-bulls-and-cows](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0355-design-twitter) |
 ## String
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0328-odd-even-linked-list) |
+| [0355-design-twitter](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0355-design-twitter) |
 ## DP on Trees
 |  |
 | ------- |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0355-design-twitter) |
 ## Bucket Sort
 |  |
 | ------- |
