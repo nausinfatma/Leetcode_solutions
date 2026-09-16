@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0318-maximum-product-of-word-lengths) |
+| [0371-sum-of-two-integers](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0371-sum-of-two-integers) |
 ## Sorting
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0365-water-and-jug-problem](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0365-water-and-jug-problem) |
 | [0368-largest-divisible-subset](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0368-largest-divisible-subset) |
+| [0371-sum-of-two-integers](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0371-sum-of-two-integers) |
 ## Stack
 |  |
 | ------- |
