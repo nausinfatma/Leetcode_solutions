@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0368-largest-divisible-subset) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0867-transpose-matrix](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0867-transpose-matrix) |
 ## Bit Manipulation
 |  |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0355-design-twitter) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 ## Bucket Sort
 |  |
 | ------- |
