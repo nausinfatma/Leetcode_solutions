@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0368-largest-divisible-subset) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0372-super-pow) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 ## Stack
 |  |
 | ------- |
@@ -276,4 +278,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0372-super-pow) |
+## Minimax
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 <!---LeetCode Topics End-->
