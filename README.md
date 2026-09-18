@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0376-wiggle-subsequence](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0376-wiggle-subsequence) |
 | [0867-transpose-matrix](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0867-transpose-matrix) |
 ## Bit Manipulation
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0376-wiggle-subsequence](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0376-wiggle-subsequence) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0316-remove-duplicate-letters) |
 | [0324-wiggle-sort-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0376-wiggle-subsequence](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0376-wiggle-subsequence) |
 ## Monotonic Stack
 |  |
 | ------- |
