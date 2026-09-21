@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0385-mini-parser](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0385-mini-parser) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0341-flatten-nested-list-iterator) |
 | [0365-water-and-jug-problem](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0365-water-and-jug-problem) |
+| [0385-mini-parser](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0385-mini-parser) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0316-remove-duplicate-letters) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0341-flatten-nested-list-iterator) |
+| [0385-mini-parser](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0385-mini-parser) |
 ## Greedy
 |  |
 | ------- |
