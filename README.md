@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0341-flatten-nested-list-iterator) |
 | [0365-water-and-jug-problem](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0365-water-and-jug-problem) |
 | [0385-mini-parser](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0385-mini-parser) |
+| [0386-lexicographical-numbers](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0386-lexicographical-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -318,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0382-linked-list-random-node) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
