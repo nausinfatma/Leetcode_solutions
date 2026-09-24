@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## String
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0385-mini-parser](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0394-decode-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0372-super-pow) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Backtracking
 |  |
 | ------- |
@@ -336,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0390-elimination-game](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0394-decode-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 <!---LeetCode Topics End-->
