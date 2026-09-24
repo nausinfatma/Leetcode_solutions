@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0385-mini-parser](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0388-longest-absolute-file-path) |
+| [0394-decode-string](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0394-decode-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0388-longest-absolute-file-path) |
+| [0394-decode-string](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0394-decode-string) |
 ## Greedy
 |  |
 | ------- |
@@ -333,4 +335,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0390-elimination-game](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0390-elimination-game) |
+| [0394-decode-string](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
