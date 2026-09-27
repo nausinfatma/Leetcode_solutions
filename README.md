@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0398-random-pick-index](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0398-random-pick-index) |
 ## String
 |  |
 | ------- |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0384-shuffle-an-array) |
 | [0390-elimination-game](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0396-rotate-function) |
+| [0398-random-pick-index](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0398-random-pick-index) |
 ## Stack
 |  |
 | ------- |
@@ -339,10 +341,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0382-linked-list-random-node](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0384-shuffle-an-array) |
+| [0398-random-pick-index](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0398-random-pick-index) |
 ## Reservoir Sampling
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0398-random-pick-index) |
 ## Trie
 |  |
 | ------- |
