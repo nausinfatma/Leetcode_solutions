@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0384-shuffle-an-array) |
 | [0393-utf-8-validation](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0393-utf-8-validation) |
 | [0396-rotate-function](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0396-rotate-function) |
+| [0399-evaluate-division](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0867-transpose-matrix](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0867-transpose-matrix) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0388-longest-absolute-file-path](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0399-evaluate-division](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0399-evaluate-division) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0385-mini-parser](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0385-mini-parser) |
 | [0386-lexicographical-numbers](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0386-lexicographical-numbers) |
 | [0388-longest-absolute-file-path](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0388-longest-absolute-file-path) |
+| [0399-evaluate-division](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0417-pacific-atlantic-water-flow) |
 ## Breadth-First Search
 |  |
@@ -208,11 +211,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0365-water-and-jug-problem) |
+| [0399-evaluate-division](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0417-pacific-atlantic-water-flow) |
 ## Graph Theory
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0310-minimum-height-trees) |
+| [0399-evaluate-division](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0399-evaluate-division) |
 ## Topological Sort
 |  |
 | ------- |
@@ -368,4 +373,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0397-integer-replacement) |
+## Union-Find
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0399-evaluate-division) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0399-evaluate-division) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
