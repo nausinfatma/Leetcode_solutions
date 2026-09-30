@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0419-battleships-in-a-board) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0867-transpose-matrix](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0867-transpose-matrix) |
 ## Bit Manipulation
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0371-sum-of-two-integers) |
 | [0393-utf-8-validation](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0393-utf-8-validation) |
 | [0397-integer-replacement](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0397-integer-replacement) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0398-random-pick-index) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0386-lexicographical-numbers) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Recursion
 |  |
 | ------- |
