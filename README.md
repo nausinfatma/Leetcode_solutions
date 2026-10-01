@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0398-random-pick-index) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0423-reconstruct-original-digits-from-english) |
 ## String
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0402-remove-k-digits) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0423-reconstruct-original-digits-from-english) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0400-nth-digit) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0423-reconstruct-original-digits-from-english) |
 ## Stack
 |  |
 | ------- |
