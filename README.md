@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0399-evaluate-division) |
 | [0406-queue-reconstruction-by-height](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0406-queue-reconstruction-by-height) |
+| [0413-arithmetic-slices](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0419-battleships-in-a-board) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0397-integer-replacement) |
+| [0413-arithmetic-slices](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 ## Longest Increasing Subsequence
 |  |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0413-arithmetic-slices](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## 0-1 Knapsack
 |  |
