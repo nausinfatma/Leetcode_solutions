@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0341-flatten-nested-list-iterator) |
 | [0427-construct-quad-tree](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0427-construct-quad-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0437-path-sum-iii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0437-path-sum-iii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0337-house-robber-iii) |
+| [0437-path-sum-iii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0437-path-sum-iii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0419-battleships-in-a-board) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0437-path-sum-iii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0437-path-sum-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
