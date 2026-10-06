@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0436-find-right-interval) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0867-transpose-matrix](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0867-transpose-matrix) |
 ## Bit Manipulation
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0436-find-right-interval) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Counting Sort
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0423-reconstruct-original-digits-from-english](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0424-longest-repeating-character-replacement](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0433-minimum-genetic-mutation) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## String
 |  |
 | ------- |
