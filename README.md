@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+| [0443-string-compression](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0443-string-compression) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0423-reconstruct-original-digits-from-english](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0424-longest-repeating-character-replacement](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0433-minimum-genetic-mutation) |
+| [0443-string-compression](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0443-string-compression) |
 ## Dynamic Programming
 |  |
 | ------- |
