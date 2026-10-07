@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0400-nth-digit) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0445-add-two-numbers-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0445-add-two-numbers-ii) |
 ## Stack
 |  |
 | ------- |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0388-longest-absolute-file-path](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0402-remove-k-digits) |
+| [0445-add-two-numbers-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0445-add-two-numbers-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0355-design-twitter) |
 | [0382-linked-list-random-node](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0382-linked-list-random-node) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0445-add-two-numbers-ii) |
 ## DP on Trees
 |  |
 | ------- |
