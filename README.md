@@ -219,10 +219,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0427-construct-quad-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0437-path-sum-iii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0450-delete-node-in-a-bst](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
