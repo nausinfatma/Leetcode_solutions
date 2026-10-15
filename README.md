@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0867-transpose-matrix](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0867-transpose-matrix) |
 ## Bit Manipulation
 |  |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0400-nth-digit) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0445-add-two-numbers-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0445-add-two-numbers-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Stack
 |  |
 | ------- |
