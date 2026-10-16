@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0454-4sum-ii) |
+| [0456-132-pattern](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0456-132-pattern) |
 | [0867-transpose-matrix](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0867-transpose-matrix) |
 ## Bit Manipulation
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0400-nth-digit) |
 | [0436-find-right-interval](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0436-find-right-interval) |
+| [0456-132-pattern](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0456-132-pattern) |
 ## Design
 |  |
 | ------- |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0445-add-two-numbers-ii) |
+| [0456-132-pattern](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0456-132-pattern) |
 ## Greedy
 |  |
 | ------- |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0456-132-pattern) |
 ## Brainteaser
 |  |
 | ------- |
@@ -468,4 +472,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0433-minimum-genetic-mutation) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
