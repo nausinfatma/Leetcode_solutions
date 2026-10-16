@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0454-4sum-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0454-4sum-ii) |
 | [0867-transpose-matrix](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0867-transpose-matrix) |
 ## Bit Manipulation
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0454-4sum-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0454-4sum-ii) |
 ## String
 |  |
 | ------- |
