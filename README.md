@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0393-utf-8-validation](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0393-utf-8-validation) |
 | [0397-integer-replacement](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0397-integer-replacement) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0464-can-i-win](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0464-can-i-win) |
 ## Sorting
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
+| [0464-can-i-win](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0464-can-i-win) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0423-reconstruct-original-digits-from-english](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0445-add-two-numbers-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0464-can-i-win](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0464-can-i-win) |
 ## Stack
 |  |
 | ------- |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0464-can-i-win](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0464-can-i-win) |
 ## Randomized
 |  |
 | ------- |
@@ -452,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0397-integer-replacement) |
+| [0464-can-i-win](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0464-can-i-win) |
 ## Union-Find
 |  |
 | ------- |
@@ -480,4 +485,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0456-132-pattern) |
+## Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
