@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0454-4sum-ii) |
 | [0457-circular-array-loop](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0457-circular-array-loop) |
+| [0508-most-frequent-subtree-sum](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0508-most-frequent-subtree-sum) |
 ## String
 |  |
 | ------- |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0429-n-ary-tree-level-order-traversal](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0437-path-sum-iii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0508-most-frequent-subtree-sum](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0508-most-frequent-subtree-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0508-most-frequent-subtree-sum](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0508-most-frequent-subtree-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0419-battleships-in-a-board) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0437-path-sum-iii) |
+| [0508-most-frequent-subtree-sum](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0508-most-frequent-subtree-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -374,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0337-house-robber-iii) |
+| [0508-most-frequent-subtree-sum](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0508-most-frequent-subtree-sum) |
 ## Queue
 |  |
 | ------- |
