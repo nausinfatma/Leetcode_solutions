@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0508-most-frequent-subtree-sum) |
+| [0513-find-bottom-left-tree-value](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0513-find-bottom-left-tree-value) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0508-most-frequent-subtree-sum) |
+| [0513-find-bottom-left-tree-value](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0513-find-bottom-left-tree-value) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0437-path-sum-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0508-most-frequent-subtree-sum) |
+| [0513-find-bottom-left-tree-value](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0513-find-bottom-left-tree-value) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0433-minimum-genetic-mutation](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0433-minimum-genetic-mutation) |
+| [0513-find-bottom-left-tree-value](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0513-find-bottom-left-tree-value) |
 ## Graph Theory
 |  |
 | ------- |
