@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0454-4sum-ii) |
 | [0457-circular-array-loop](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0457-circular-array-loop) |
 | [0508-most-frequent-subtree-sum](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0508-most-frequent-subtree-sum) |
+| [0519-random-flip-matrix](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0519-random-flip-matrix) |
 ## String
 |  |
 | ------- |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0464-can-i-win](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0464-can-i-win) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0519-random-flip-matrix](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0519-random-flip-matrix) |
 ## Stack
 |  |
 | ------- |
@@ -456,12 +458,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0398-random-pick-index) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0519-random-flip-matrix](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0519-random-flip-matrix) |
 ## Reservoir Sampling
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0398-random-pick-index) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0519-random-flip-matrix](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0519-random-flip-matrix) |
 ## Trie
 |  |
 | ------- |
