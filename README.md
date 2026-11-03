@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0454-4sum-ii) |
 | [0456-132-pattern](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0456-132-pattern) |
 | [0457-circular-array-loop](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0457-circular-array-loop) |
+| [0473-matchsticks-to-square](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0473-matchsticks-to-square) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0498-diagonal-traverse](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0518-coin-change-ii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0397-integer-replacement) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0464-can-i-win](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0464-can-i-win) |
+| [0473-matchsticks-to-square](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0473-matchsticks-to-square) |
 ## Sorting
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0464-can-i-win](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0464-can-i-win) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0467-unique-substrings-in-wraparound-string) |
+| [0473-matchsticks-to-square](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0473-matchsticks-to-square) |
 | [0516-longest-palindromic-subsequence](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0518-coin-change-ii) |
 ## Longest Increasing Subsequence
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0306-additive-number](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0357-count-numbers-with-unique-digits) |
+| [0473-matchsticks-to-square](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0473-matchsticks-to-square) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -527,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0464-can-i-win) |
+| [0473-matchsticks-to-square](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0473-matchsticks-to-square) |
 ## Rejection Sampling
 |  |
 | ------- |
