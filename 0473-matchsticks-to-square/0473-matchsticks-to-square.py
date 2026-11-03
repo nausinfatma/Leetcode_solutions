@@ -1,0 +1,35 @@
+
+class Solution:
+    def makesquare(self, matchsticks: list[int]) -> bool:
+        
+        total = sum(matchsticks)
+
+        if total % 4 != 0:
+            return False
+
+        target = total // 4
+
+        if max(matchsticks) > target:
+            return False
+
+        sides = [0] * 4
+        matchsticks.sort(reverse=True)
+
+        def dfs(i):
+
+            if i == len(matchsticks):
+                return True
+
+            for j in range(4):
+
+                if sides[j] + matchsticks[i] <= target:
+                    sides[j] += matchsticks[i]
+
+                    if dfs(i+1) == True:
+                        return True
+
+                    sides[j] -= matchsticks[i]
+
+            return False
+
+        return dfs(0)
