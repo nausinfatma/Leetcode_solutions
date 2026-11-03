@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0456-132-pattern) |
 | [0457-circular-array-loop](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0457-circular-array-loop) |
 | [0473-matchsticks-to-square](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0474-ones-and-zeroes) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0498-diagonal-traverse](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0518-coin-change-ii) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0468-validate-ip-address](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0468-validate-ip-address) |
+| [0474-ones-and-zeroes](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0516-longest-palindromic-subsequence) |
 ## Dynamic Programming
 |  |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0464-can-i-win) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0473-matchsticks-to-square](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0518-coin-change-ii) |
 ## Longest Increasing Subsequence
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
@@ -493,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0474-ones-and-zeroes) |
 ## Memoization
 |  |
 | ------- |
