@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0475-heaters) |
+| [0477-total-hamming-distance](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0477-total-hamming-distance) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0498-diagonal-traverse](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0518-coin-change-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0464-can-i-win](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0473-matchsticks-to-square) |
+| [0477-total-hamming-distance](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0477-total-hamming-distance) |
 ## Sorting
 |  |
 | ------- |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0464-can-i-win](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0464-can-i-win) |
 | [0470-implement-rand10-using-rand7](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0470-implement-rand10-using-rand7) |
+| [0477-total-hamming-distance](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0477-total-hamming-distance) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0519-random-flip-matrix](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0519-random-flip-matrix) |
 ## Stack
