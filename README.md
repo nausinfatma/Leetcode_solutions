@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0443-string-compression) |
 | [0457-circular-array-loop](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0457-circular-array-loop) |
 | [0475-heaters](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0475-heaters) |
+| [0481-magical-string](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0481-magical-string) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0467-unique-substrings-in-wraparound-string](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0468-validate-ip-address](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0468-validate-ip-address) |
 | [0474-ones-and-zeroes](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0474-ones-and-zeroes) |
+| [0481-magical-string](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0481-magical-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0516-longest-palindromic-subsequence) |
 ## Dynamic Programming
 |  |
