@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0518-coin-change-ii) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0523-continuous-subarray-sum](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0867-transpose-matrix](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0867-transpose-matrix) |
 ## Bit Manipulation
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+| [0523-continuous-subarray-sum](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0519-random-flip-matrix](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0519-random-flip-matrix) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0523-continuous-subarray-sum](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 ## String
 |  |
 | ------- |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0523-continuous-subarray-sum](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -364,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0478-generate-random-point-in-a-circle](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0478-generate-random-point-in-a-circle) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0519-random-flip-matrix](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0519-random-flip-matrix) |
+| [0523-continuous-subarray-sum](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 ## Stack
 |  |
 | ------- |
