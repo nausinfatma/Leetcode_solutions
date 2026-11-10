@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0518-coin-change-ii) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0867-transpose-matrix](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0867-transpose-matrix) |
 ## Bit Manipulation
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0475-heaters](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0475-heaters) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 ## Counting Sort
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0475-heaters) |
 | [0481-magical-string](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0481-magical-string) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0481-magical-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 ## Dynamic Programming
 |  |
 | ------- |
