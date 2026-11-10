@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0525-contiguous-array](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0525-contiguous-array) |
 | [0867-transpose-matrix](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0867-transpose-matrix) |
 ## Bit Manipulation
 |  |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0519-random-flip-matrix](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0519-random-flip-matrix) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0525-contiguous-array) |
 ## String
 |  |
 | ------- |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0523-continuous-subarray-sum](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0525-contiguous-array) |
 ## Divide and Conquer
 |  |
 | ------- |
