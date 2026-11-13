@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0384-shuffle-an-array) |
+| [0535-encode-and-decode-tinyurl](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0535-encode-and-decode-tinyurl) |
 ## Iterator
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0525-contiguous-array) |
+| [0535-encode-and-decode-tinyurl](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0535-encode-and-decode-tinyurl) |
 ## String
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0535-encode-and-decode-tinyurl](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0535-encode-and-decode-tinyurl) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -592,4 +595,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0478-generate-random-point-in-a-circle](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0478-generate-random-point-in-a-circle) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
