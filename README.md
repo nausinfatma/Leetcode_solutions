@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0525-contiguous-array](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0526-beautiful-arrangement) |
+| [0539-minimum-time-difference](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0539-minimum-time-difference) |
 | [0867-transpose-matrix](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0867-transpose-matrix) |
 ## Bit Manipulation
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0475-heaters) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0539-minimum-time-difference](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0539-minimum-time-difference) |
 ## Counting Sort
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0535-encode-and-decode-tinyurl](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0537-complex-number-multiplication](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0537-complex-number-multiplication) |
+| [0539-minimum-time-difference](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0539-minimum-time-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0519-random-flip-matrix](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0519-random-flip-matrix) |
 | [0523-continuous-subarray-sum](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0537-complex-number-multiplication](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0537-complex-number-multiplication) |
+| [0539-minimum-time-difference](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0539-minimum-time-difference) |
 ## Stack
 |  |
 | ------- |
