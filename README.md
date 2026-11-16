@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0538-convert-bst-to-greater-tree) |
+| [0547-number-of-provinces](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -359,11 +360,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0399-evaluate-division) |
+| [0547-number-of-provinces](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0547-number-of-provinces) |
 ## Topological Sort
 |  |
 | ------- |
@@ -568,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0399-evaluate-division) |
+| [0547-number-of-provinces](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0547-number-of-provinces) |
 ## Shortest Path
 |  |
 | ------- |
