@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0542-01-matrix) |
 | [0553-optimal-division](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0553-optimal-division) |
+| [0554-brick-wall](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0554-brick-wall) |
 | [0867-transpose-matrix](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0867-transpose-matrix) |
 ## Bit Manipulation
 |  |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0525-contiguous-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0535-encode-and-decode-tinyurl) |
+| [0554-brick-wall](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0554-brick-wall) |
 ## String
 |  |
 | ------- |
