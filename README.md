@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0372-super-pow](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0372-super-pow) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0427-construct-quad-tree](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0427-construct-quad-tree) |
+| [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 ## Backtracking
 |  |
 | ------- |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0538-convert-bst-to-greater-tree) |
+| [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
