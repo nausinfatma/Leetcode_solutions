@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0481-magical-string) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0556-next-greater-element-iii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0556-next-greater-element-iii) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0537-complex-number-multiplication](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0539-minimum-time-difference) |
+| [0556-next-greater-element-iii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0556-next-greater-element-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0539-minimum-time-difference) |
 | [0553-optimal-division](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0553-optimal-division) |
+| [0556-next-greater-element-iii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0556-next-greater-element-iii) |
 ## Stack
 |  |
 | ------- |
