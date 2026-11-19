@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0542-01-matrix) |
 | [0553-optimal-division](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0553-optimal-division) |
 | [0554-brick-wall](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0554-brick-wall) |
+| [0565-array-nesting](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0565-array-nesting) |
 | [0867-transpose-matrix](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0867-transpose-matrix) |
 ## Bit Manipulation
 |  |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0547-number-of-provinces](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0547-number-of-provinces) |
+| [0565-array-nesting](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0565-array-nesting) |
 ## Breadth-First Search
 |  |
 | ------- |
