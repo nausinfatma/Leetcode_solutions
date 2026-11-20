@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0542-01-matrix) |
 | [0553-optimal-division](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0553-optimal-division) |
+| [0576-out-of-boundary-paths](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0576-out-of-boundary-paths) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
