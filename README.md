@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0556-next-greater-element-iii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0556-next-greater-element-iii) |
+| [0567-permutation-in-string](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0567-permutation-in-string) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0525-contiguous-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0554-brick-wall](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0554-brick-wall) |
+| [0567-permutation-in-string](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0556-next-greater-element-iii) |
+| [0567-permutation-in-string](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -569,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0567-permutation-in-string) |
 ## 0-1 Knapsack
 |  |
 | ------- |
