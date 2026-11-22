@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0553-optimal-division) |
 | [0556-next-greater-element-iii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0556-next-greater-element-iii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0592-fraction-addition-and-subtraction) |
+| [0593-valid-square](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0593-valid-square) |
 ## Stack
 |  |
 | ------- |
@@ -640,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0478-generate-random-point-in-a-circle](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0478-generate-random-point-in-a-circle) |
+| [0593-valid-square](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0593-valid-square) |
 ## Hash Function
 |  |
 | ------- |
