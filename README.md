@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0553-optimal-division) |
 | [0554-brick-wall](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0554-brick-wall) |
 | [0565-array-nesting](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0565-array-nesting) |
+| [0609-find-duplicate-file-in-system](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0609-find-duplicate-file-in-system) |
 | [0867-transpose-matrix](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0867-transpose-matrix) |
 ## Bit Manipulation
 |  |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0554-brick-wall](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0554-brick-wall) |
 | [0567-permutation-in-string](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0567-permutation-in-string) |
+| [0609-find-duplicate-file-in-system](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0609-find-duplicate-file-in-system) |
 ## String
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0606-construct-string-from-binary-tree](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0606-construct-string-from-binary-tree) |
+| [0609-find-duplicate-file-in-system](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0609-find-duplicate-file-in-system) |
 ## Dynamic Programming
 |  |
 | ------- |
