@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0565-array-nesting](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0565-array-nesting) |
 | [0609-find-duplicate-file-in-system](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0609-find-duplicate-file-in-system) |
 | [0611-valid-triangle-number](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0621-task-scheduler) |
 | [0867-transpose-matrix](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0867-transpose-matrix) |
 ## Bit Manipulation
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0539-minimum-time-difference](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0539-minimum-time-difference) |
 | [0611-valid-triangle-number](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0621-task-scheduler) |
 ## Counting Sort
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0621-task-scheduler) |
 ## Binary Search
 |  |
 | ------- |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0554-brick-wall](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0554-brick-wall) |
 | [0567-permutation-in-string](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [0609-find-duplicate-file-in-system](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0609-find-duplicate-file-in-system) |
+| [0621-task-scheduler](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0621-task-scheduler) |
 ## String
 |  |
 | ------- |
@@ -458,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0611-valid-triangle-number](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0621-task-scheduler) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -518,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0621-task-scheduler) |
 ## Bucket Sort
 |  |
 | ------- |
