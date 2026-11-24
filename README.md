@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0554-brick-wall](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0554-brick-wall) |
 | [0565-array-nesting](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0565-array-nesting) |
 | [0609-find-duplicate-file-in-system](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0609-find-duplicate-file-in-system) |
+| [0611-valid-triangle-number](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0611-valid-triangle-number) |
 | [0867-transpose-matrix](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0867-transpose-matrix) |
 ## Bit Manipulation
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0539-minimum-time-difference](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0539-minimum-time-difference) |
+| [0611-valid-triangle-number](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0611-valid-triangle-number) |
 ## Counting Sort
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0475-heaters) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0611-valid-triangle-number) |
 ## Design
 |  |
 | ------- |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0556-next-greater-element-iii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0567-permutation-in-string) |
+| [0611-valid-triangle-number](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0611-valid-triangle-number) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -453,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0611-valid-triangle-number](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0611-valid-triangle-number) |
 ## Monotonic Stack
 |  |
 | ------- |
