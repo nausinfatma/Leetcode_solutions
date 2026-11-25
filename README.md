@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0609-find-duplicate-file-in-system](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0609-find-duplicate-file-in-system) |
 | [0611-valid-triangle-number](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0621-task-scheduler) |
+| [0622-design-circular-queue](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0622-design-circular-queue) |
 | [0867-transpose-matrix](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0867-transpose-matrix) |
 ## Bit Manipulation
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0384-shuffle-an-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0535-encode-and-decode-tinyurl) |
+| [0622-design-circular-queue](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0622-design-circular-queue) |
 ## Iterator
 |  |
 | ------- |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0382-linked-list-random-node) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0445-add-two-numbers-ii) |
+| [0622-design-circular-queue](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0622-design-circular-queue) |
 ## DP on Trees
 |  |
 | ------- |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0341-flatten-nested-list-iterator) |
+| [0622-design-circular-queue](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0622-design-circular-queue) |
 ## Simulation
 |  |
 | ------- |
