@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0633-sum-of-square-numbers) |
 ## Design
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0633-sum-of-square-numbers) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0556-next-greater-element-iii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0593-valid-square](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0593-valid-square) |
+| [0633-sum-of-square-numbers](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0633-sum-of-square-numbers) |
 ## Stack
 |  |
 | ------- |
