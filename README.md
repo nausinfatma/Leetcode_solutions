@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0622-design-circular-queue) |
+| [0624-maximum-distance-in-arrays](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0867-transpose-matrix](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0867-transpose-matrix) |
 ## Bit Manipulation
 |  |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0611-valid-triangle-number](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0621-task-scheduler) |
+| [0624-maximum-distance-in-arrays](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0624-maximum-distance-in-arrays) |
 ## Monotonic Stack
 |  |
 | ------- |
