@@ -686,4 +686,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0640-solve-the-equation](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0640-solve-the-equation) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
