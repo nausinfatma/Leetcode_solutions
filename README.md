@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0606-construct-string-from-binary-tree](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0609-find-duplicate-file-in-system](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0609-find-duplicate-file-in-system) |
+| [0640-solve-the-equation](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0640-solve-the-equation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0593-valid-square](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0593-valid-square) |
 | [0633-sum-of-square-numbers](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0633-sum-of-square-numbers) |
+| [0640-solve-the-equation](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0640-solve-the-equation) |
 ## Stack
 |  |
 | ------- |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0498-diagonal-traverse) |
 | [0537-complex-number-multiplication](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0537-complex-number-multiplication) |
 | [0592-fraction-addition-and-subtraction](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0592-fraction-addition-and-subtraction) |
+| [0640-solve-the-equation](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0640-solve-the-equation) |
 | [0867-transpose-matrix](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0867-transpose-matrix) |
 ## Heap (Priority Queue)
 |  |
@@ -679,4 +682,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0583-delete-operation-for-two-strings) |
+## Linear Algebra
+|  |
+| ------- |
+| [0640-solve-the-equation](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0640-solve-the-equation) |
 <!---LeetCode Topics End-->
