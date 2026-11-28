@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0622-design-circular-queue) |
 | [0624-maximum-distance-in-arrays](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0624-maximum-distance-in-arrays) |
+| [0636-exclusive-time-of-functions](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0867-transpose-matrix](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0867-transpose-matrix) |
 ## Bit Manipulation
 |  |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0456-132-pattern) |
+| [0636-exclusive-time-of-functions](https://github.com/nausinfatma/Leetcode_solutions/tree/master/0636-exclusive-time-of-functions) |
 ## Greedy
 |  |
 | ------- |
